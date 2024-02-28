@@ -32,5 +32,3 @@ public class ResidentInfo {
         return periodOfResidence;
     }
 }
-
-
