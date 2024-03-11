@@ -18,7 +18,7 @@ public class Main {
         List<String> results = new ArrayList<>();
 
         for (ResidentInfo residentInfo : residents) {
-            if (residentInfo.getName().contains("a")) {
+            if (residentInfo.getName().contains("t")) {
                 results.add(residentInfo.getName());
             }
         }
